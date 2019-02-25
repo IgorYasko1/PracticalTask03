@@ -1,4 +1,4 @@
-package study.taskthree.checknumbers;
+package study.thirdpracticaltask.checknumbers;
 
 public class NumbersChecker {
 

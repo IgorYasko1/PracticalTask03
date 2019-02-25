@@ -1,4 +1,4 @@
-package study.taskthree.numberrevers;
+package study.thirdpracticaltask.numberrevers;
 
 public class NumberReverser {
 
